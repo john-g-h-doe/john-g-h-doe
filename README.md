@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @john-g-h-doe
-- 👀 I’m interested in fixing bugs
-- 🌱 I’m currently learning advanced sound and image processing
-- 💞️ I’m looking to collaborate on c and c++ projects
+- 👀 I’m interested...
+- 🌱  ... (see git hostory ;)
+- 💞️ ... (see git hostory ;)
 - 📫 How to reach me: john.g.h.doe84@gmail.com
 
 <!---
