@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @john-g-h-doe
 - 👀 I’m interested...
-- 🌱  ... (see git hostory ;)
-- 💞️ ... (see git hostory ;)
+- 🌱  ... (see git history ;)
+- 💞️ ... (see git history ;)
 - 📫 How to reach me: john.g.h.doe84@gmail.com
 
 <!---
